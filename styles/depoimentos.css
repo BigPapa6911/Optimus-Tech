@@ -1,0 +1,32 @@
+.depoimentos{
+    background: rgb(195,25,25,0.03);
+    text-align: center;
+    margin: 1em 6em 7em;
+    border-radius: 25px;
+    padding: 5em;
+}
+.depoimentosTitulo{
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--vermelho);
+}
+.depoimentosDescricao{
+    font-size: 36px;
+    font-weight: 500;
+    padding: 1em 0;
+    color: var(--corTitulo);
+}
+.depoismentosPerfil{
+    padding-top: 2em;
+}
+.perfilNome{
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--corTitulo);
+    padding: 1em 0;
+}
+.perfilTrabalho{
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza);
+}

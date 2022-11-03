@@ -1,0 +1,42 @@
+.formulario{
+    text-align: center;
+    padding: 7em;
+    background: var(--formularioBackground);
+}
+.formularioTitulo{
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--corTitulo);
+}
+.formularioDescricao{
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    padding: 2em 0;
+}
+.formularioInput{
+    padding: 0.6em 8em 0.6em 0.8em;
+    border: solid var(--inputBorda) 1px;
+    border-radius: 6px;
+    margin-right: 1em;
+}
+.formularioInput::placeholder{
+    font-family: var(--fonte) ;
+    color: var(--cinza);
+    font-size: 16px;
+    font-weight: 400;
+}
+.formularioBotao{
+    color: var(--branco);
+    background: var(--vermelho);
+    padding: 0.7em 1em;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 7px;
+}
+.formularioCopyright{
+    padding-top: 5em;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--copyright);
+}

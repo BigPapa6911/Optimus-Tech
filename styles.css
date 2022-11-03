@@ -1,13 +1,22 @@
 @import url(styles/header.css);
 @import url(styles/sobrenos.css);
+@import url(styles/dados.css);
+@import url(styles/vagas.css);
+@import url(styles/areasdetrabalho.css);
+@import url(styles/depoimentos.css);
+@import url(styles/footer.css);
 
 :root{
     --fonte: 'Inter', sans-serif;
     --branco: #FFFFFF;
     --corfonteacizentada: #3A404E;
     --vermelho: #8E2424;
-    --corTitulo: 101828;
+    --corTitulo: #101828;
     --cinza: #667085;
+    --corBorda: #EAECF0;
+    --formularioBackground: #F9FAFB;
+    --inputBorda: #D0D5DD;
+    --copyright: #98A2B3;
 }
 body{
     font-family: var(--fonte);

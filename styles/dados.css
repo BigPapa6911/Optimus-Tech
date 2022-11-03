@@ -1,0 +1,26 @@
+.dados{
+    align-items: center;
+}
+.dadosLista{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 2em;
+    margin: 0 9em;
+}
+.listaNumero{
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+    padding-bottom: 0.4em;
+}
+.listaTitulo{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--corTitulo);
+    padding-bottom: 0.5em;
+}
+.listaDescricao{
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza);
+}

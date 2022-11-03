@@ -1,0 +1,20 @@
+.sobrenos{
+    text-align: center;
+    margin: 10em 0 7em;
+}
+.sobrenosDescricao{
+    color: var(--vermelho);
+    font-size: 16px;
+    font-weight: 600;
+}
+.sobrenosTitulo{
+    font-size: 48px;
+    font-weight: 600;
+    padding: 0.8em 0;
+}
+.sobrenosTexto{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    margin: 0 16em;
+}

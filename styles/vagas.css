@@ -1,0 +1,25 @@
+.vagas{
+    text-align: center;
+}
+.vagasAbertas{
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+    background: rgb(142, 36, 36, 0.05);
+    padding: 0.5em 1em;
+    width: 7.5%;
+    margin-left: 42.5%;
+    border-radius: 20px;
+    margin: 3em 42.5% 2em 42.5%;
+}
+.vagasTitulo{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--corTitulo);
+}
+.vagasDescricao{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    padding: 3em 0;
+}
