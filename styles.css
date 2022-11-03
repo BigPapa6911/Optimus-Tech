@@ -1,0 +1,16 @@
+@import url(styles/header.css);
+@import url(styles/sobrenos.css);
+
+:root{
+    --fonte: 'Inter', sans-serif;
+    --branco: #FFFFFF;
+    --corfonteacizentada: #3A404E;
+    --vermelho: #8E2424;
+    --corTitulo: 101828;
+    --cinza: #667085;
+}
+body{
+    font-family: var(--fonte);
+    background: var(--branco);
+    font-size: 16px;
+}

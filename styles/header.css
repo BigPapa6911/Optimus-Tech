@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    margin: 2em 5em;
+    align-items: center;
+    justify-content: space-between
+}
+.logo{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 18px;
+}
+.logoImagem{
+    padding: 0 1em;
+}
+.categorias{
+    color: var(--cinza);
+    margin-right: auto;
+    padding-left: 6em;
+    font-weight: 500;
+}
+.categoriasLink{
+    padding: 0 1em;
+}
+.usuarioLogin{
+    color: var(--cinza);
+    padding: 0 2em;
+}
+.usuarioBotao{
+    background-color: var(--vermelho);
+    padding: 0.8em 1.2em;
+    border-radius: 10px;
+    font-weight: 500;
+    color: var(--branco);
+}
